@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+code/.cache/
+code/evaluation/sample_predictions.csv
+code/evaluation/sample_smoke.csv
+code/evaluation/*_smoke.csv
